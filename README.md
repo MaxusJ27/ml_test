@@ -55,4 +55,3 @@ A seeder [script](./src/main/java/com/moneylion/ta/service/SeedingService.java) 
 
 The api is deployed using AWS Lambda in an API Gateway with the using the [template.yaml](./template.yaml) script.
 
-# ml_test
